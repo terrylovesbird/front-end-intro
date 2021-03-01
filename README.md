@@ -43,7 +43,7 @@ The HTML we've written so far is working just fine, but it is not complete. Let'
   <title>Code Platoon!</title>
 </head>
 <body>
-  <h1>Hello World<h1/>
+  <h1>Hello World</h1>
 </body>
 </html>
 
@@ -138,7 +138,7 @@ You can apply CSS directly to the element, but this is usually discouraged. More
   <title>Code Platoon!</title>
 </head>
 <body>
-  <h1>Hello World<h1/>
+  <h1>Hello World</h1>
 </body>
 </html>
 
@@ -167,7 +167,7 @@ Usually you don't want to target elements by their html tag. Instead, we use ids
   <title>Code Platoon!</title>
 </head>
 <body>
-  <h1 id='main-heading'>Hello World<h1/>
+  <h1 id='main-heading'>Hello World</h1>
   <h2 id='subheading-one' class='subheading' >I'm a subheading!</h2>
   <p class='article-body'>I'm a paragraph with a bunch of interesting content.</p>
   <h2 id='subheading-two' class='subheading'>I'm another subheading!</h2>
