@@ -1,6 +1,6 @@
 
 # Front end
-You may already be familiar with how the internet works on a high level. 
+(test)You may already be familiar with how the internet works on a high level. 
 - You enter a url like `www.imdb.com` into your web browser. 
 - Your browser makes an `HTTP GET` request to a server.
 - The server returns all the code for the Internet Movie Database website (or whatever website you requested). 
